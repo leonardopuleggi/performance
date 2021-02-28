@@ -1,4 +1,4 @@
-# Java fake load simulator
+#Java fake load simulator
 
 Simple Spring boot REST application to simulate CPU/memory bound jobs to test in K8s
 
