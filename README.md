@@ -18,6 +18,6 @@ When started, the application with have the following endpoints
 
 
 
-Using the [GitHub - msigwart/fakeload: FakeLoad is an open-source Java library which provides developers with a simple way of producing “fake&quot; system loads in their applications.](https://github.com/msigwart/fakeload)
+Using [GitHub - msigwart/fakeload: FakeLoad is an open-source Java library which provides developers with a simple way of producing “fake&quot; system loads in their applications.](https://github.com/msigwart/fakeload)
 
 
